@@ -5,12 +5,12 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography by Rushil Yerrabelli"
+title: "Photography by Rushil"
 subtitle: 
 author: "Rushil Yerrabelli"
 header:
  title: "Photography"
- subtitle: "by Rushil"
+ subtitle: "by Rushil Yerrabelli"
 footer:
  name: "Hey there, my name is Rushil"
  bio: "Here are some of the best photos I have taken... mostly of wildlife in backyard."
